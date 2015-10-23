@@ -45,7 +45,7 @@ gi|762101028|ref|XM_011434681.1|	Geo_Pool_M_CTTGTA_L006_R1_001_val_1_(paired)_co
 
 ### Blasting against Oly Database ###
 
-![Picture of Oly](Oly.jpg)
+![Picture of Oly](https://cloud.githubusercontent.com/assets/15221713/10681936/7ce41364-78db-11e5-8a12-04d70564dcc2.jpg)
 
 The Blast found Match
 
