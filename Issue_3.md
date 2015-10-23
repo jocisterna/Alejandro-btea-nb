@@ -16,7 +16,7 @@ The direct link to the page is
 
 ### Blansting agains Geoduck Database ###
 
-![Picture of Geoduck](Geoduck.jpg)
+![Picture of Geoduck](https://cloud.githubusercontent.com/assets/15221713/10681935/7ce35c94-78db-11e5-83de-279da14618c8.jpg)
 
 
 The Blast found Match
