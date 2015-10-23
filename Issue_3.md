@@ -7,7 +7,7 @@
 I take the *Crassostrea gigas* Fox 1 homolog Fox 2-like sequence from NCBI
 
 
-![Picture of NCBI](NCBI.png)
+![Picture of NCBI](https://cloud.githubusercontent.com/assets/15221713/10681934/7ce30b86-78db-11e5-84b6-a50220fc1808.png)
 ___
 
 
